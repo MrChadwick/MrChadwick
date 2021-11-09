@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @MrChadwick
+- 👀 I’m interested in ... LISP based programming languages 
+- 🌱 I’m currently learning ... Common Lisp, Scheme, Elisp, Guile
+- 💞️ I’m looking to collaborate on ... GNU Guix, Emacs, Nyxt Browser, Equake terminal.
+- 📫 How to reach me ... Smoke signals for now.
